@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cb2511f5278903238563f82195308e10.js"
+  "/precache-manifest.6100f7669d364d0e545429ab71e5ecb1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "travels-front"});
